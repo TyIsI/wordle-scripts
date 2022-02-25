@@ -11,7 +11,7 @@ Wrapper for egrepping combined word lists
 
 Example:
 ```
-./search.sh ....o
+$ ./search.sh ....o
 ```
 
 ## random.sh
@@ -20,7 +20,8 @@ Wrapper for getting a random word
 
 Example:
 ```
-./random.sh
+$ ./random.sh
+credo
 ```
 
 ## breakdown.sh
